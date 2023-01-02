@@ -1,0 +1,25 @@
+body{
+    background-color: lightblue;
+    float: left;
+}
+
+.header{
+    background-color: lightsalmon;
+    margin: 50px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.main{
+    text-align: center;
+    margin: 50px;
+    border-radius: 10px;
+    
+}
+
+.footer{
+    background-color: lightsalmon;
+    text-align: center;
+    margin-top: 50px;
+    border-radius: 10px;
+}
